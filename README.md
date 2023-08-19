@@ -14,7 +14,7 @@
     <br /> -> `await module.Init();` - Inject the Furk to the roblox
     <br /> -> `module.ExecuteScript("Add your script here");` - Execute script.
     <br /> -> These two functions returns int varriable
-    <br />   >>> 0 = Succes
-    <br />   >>> 1 = Error
+    <br />    >>> 0 = Succes
+    <br />    >>> 1 = Error
 
   
