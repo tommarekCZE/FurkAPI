@@ -1,3 +1,3 @@
 # EasyXploits No Adds
 
--- none
+-- Use this as easyexploit api
